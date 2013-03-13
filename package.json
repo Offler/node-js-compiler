@@ -1,0 +1,4 @@
+{
+	"name": "node--js-compiler",
+	"main": "./lib/compiler/CompilerFactory"
+}
